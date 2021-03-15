@@ -1,2 +1,1 @@
-# pigeon.js
-nothing personal
+nothing
